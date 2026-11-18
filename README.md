@@ -24,6 +24,9 @@ The complete specification lives in [`docs/`](docs/):
 
 ## Quick start
 
+> **New to this / on a Mac?** Follow the friendly step-by-step [SETUP.md](SETUP.md)
+> instead — it explains every step in plain language for VS Code on macOS.
+
 ```bash
 # 1. Create and activate a virtual environment (Python 3.11 or 3.12)
 python -m venv .venv
